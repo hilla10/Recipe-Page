@@ -2,6 +2,8 @@
 
 ![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 
+## <h2>Live Demo</h2> <h3>[Recipe-Page](https://hilla10.github.io/Recipe-Page/)</h3>
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
